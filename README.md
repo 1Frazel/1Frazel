@@ -4,6 +4,9 @@
 
 I’m a passionate developer currently pursuing a degree in Computer Science, with a focus on Front-End Web Development and Mobile Development. I enjoy building projects that not only function seamlessly but also deliver a delightful user experience. My academic journey has allowed me to dive deep into UI/UX design, web technologies, and mobile application development, and I’m always eager to learn more.
 
+Come take a look at my web portfolio or my CV!
+[Click here!](https://1frazel.github.io/HCI-Final-Project-Adib/#contact)
+
 ---
 
 ### 🔧 **Tech Stack & Skills**:
@@ -21,7 +24,7 @@ I’m a passionate developer currently pursuing a degree in Computer Science, wi
 Take a look at some of the projects I've worked on:
 
 - **[Recipeez]**: An Android app that helps users find recipes based on ingredients they have, integrated with meal planning and shopping list features.
-- **[Insomnomnomnia](https://github.com/1Frazel/MPF-Final-Game))**: A web game designed to test your reflexes and decision-making.
+- **[Insomnomnomnia](https://github.com/1Frazel/MPF-Final-Game)**: A web game designed to test your reflexes and decision-making.
 - **[RAIso App](https://github.com/1Frazel/Kompas-Re-Design)**: An Android app that help selling of stationary.
 
 ---
