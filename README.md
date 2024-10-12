@@ -5,7 +5,7 @@
 I’m a passionate developer currently pursuing a degree in Computer Science, with a focus on Front-End Web Development and Mobile Development. I enjoy building projects that not only function seamlessly but also deliver a delightful user experience. My academic journey has allowed me to dive deep into UI/UX design, web technologies, and mobile application development, and I’m always eager to learn more.
 
 Come take a look at my web portfolio or my CV!
-[Click here!](https://1frazel.github.io/HCI-Final-Project-Adib/#contact)
+[Click here!](https://1frazel.github.io/HCI-Final-Project-Adib)
 
 ---
 
