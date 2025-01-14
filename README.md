@@ -23,7 +23,7 @@ Come take a look at my web portfolio or my CV!
 
 Take a look at some of the projects I've worked on:
 
-- **[Recipeez]**: An Android app that helps users find recipes based on ingredients they have, integrated with meal planning and shopping list features.
+- **[Recipeez](https://github.com/1Frazel/Recipeez)**: An Android app that helps users find recipes based on ingredients they have, integrated with meal planning and shopping list features.
 - **[Insomnomnomnia](https://github.com/1Frazel/MPF-Final-Game)**: A web game designed to test your reflexes and decision-making.
 - **[RAIso App](https://github.com/1Frazel/RAiso-App)**: An Android app that help selling of stationary.
 
